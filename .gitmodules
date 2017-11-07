@@ -1,0 +1,3 @@
+[submodule "angular-src"]
+	path = angular-src
+	url = https://github.com/bcason0/Authentication-Frontend-Application
